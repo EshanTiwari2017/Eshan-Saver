@@ -9,3 +9,5 @@ WARNING: C:\Windows\System32 is a critical system folder. Wrong changes here can
 System Requirements:
 Your processor should be an Intel or AMD processor.
 Your operating system should be Windows 10 or 11.
+
+If you have any queries, problems, issues or suggestions about this program, feel free to email me at poonameshan2017@gmail.com
