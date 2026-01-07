@@ -1,0 +1,7 @@
+To use this screen saver, follow the given steps below:
+
+Download the ZIP file from the Releases section and extract it to a folder (it is portable).
+Then, copy the _internal folder and the Eshan Saver.scr file into the C:\Windows\System32 folder (you might need administrative permissions to do this). This step is called "installing."
+Finally, double-click on Eshan Saver.scr and watch the bubbles floating on your screen!
+
+WARNING: C:\Windows\System32 is a critical system folder. Wrong changes here can render your computer unusable.
